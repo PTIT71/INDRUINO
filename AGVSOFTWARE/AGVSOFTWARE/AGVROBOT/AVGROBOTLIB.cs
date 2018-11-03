@@ -37,7 +37,7 @@ namespace AGVSOFTWARE.AGVROBOT
         {
             
             Port1.PortName = "com6";
-         //   Port1.Open();
+            Port1.Open();
 
         }
         Stopwatch st = new Stopwatch();
@@ -46,19 +46,19 @@ namespace AGVSOFTWARE.AGVROBOT
         {
             if(newNode.frame.Distance<300)
             {
-              //  Port1.Write("3");
+                Port1.Write("3");
                 return;
             }
             else
             {
                 if (newNode.frame.Distance < 700)
                 {
-                 //   Port1.Write("2");
+                   Port1.Write("2");
                     return;
                 }
             }
 
-          //  Port1.Write("1");
+            Port1.Write("1");
             return;
         }
 
