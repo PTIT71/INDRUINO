@@ -31,9 +31,8 @@ namespace TestCodeCS
         public byte lastValues_next;
         public bool haveNewValues_;
 
-        private MarvelmindHedge()
+        public MarvelmindHedge()
         {
-
 
             positionBuffer = new PositionValue[(int)Command.MAX_BUFFERED_POSITIONS];
             for (int i = 0; i < (byte)Command.MAX_BUFFERED_POSITIONS; i++)
@@ -48,7 +47,6 @@ namespace TestCodeCS
 
 
             verbose = new bool();
-
 
             pause = new bool();
 

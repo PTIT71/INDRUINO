@@ -25,3 +25,10 @@ D:\0.DATA\Thuc_tap\0.Robot-LiDar-GPS\SourceGPS_CSharp\TestCodeCS\obj\Debug\TestC
 D:\0.DATA\Thuc_tap\0.Robot-LiDar-GPS\SourceGPS_CSharp\TestCodeCS\obj\Debug\TestCodeCS.csproj.CoreCompileInputs.cache
 D:\0.DATA\Thuc_tap\0.Robot-LiDar-GPS\SourceGPS_CSharp\TestCodeCS\obj\Debug\TestCodeCS.exe
 D:\0.DATA\Thuc_tap\0.Robot-LiDar-GPS\SourceGPS_CSharp\TestCodeCS\obj\Debug\TestCodeCS.pdb
+D:\0.DATA\Thuc_tap\2.Git\INDRUINO\SourceGPS_CSharp\TestCodeCS\bin\Debug\TestCodeCS.exe.config
+D:\0.DATA\Thuc_tap\2.Git\INDRUINO\SourceGPS_CSharp\TestCodeCS\bin\Debug\TestCodeCS.exe
+D:\0.DATA\Thuc_tap\2.Git\INDRUINO\SourceGPS_CSharp\TestCodeCS\bin\Debug\TestCodeCS.pdb
+D:\0.DATA\Thuc_tap\2.Git\INDRUINO\SourceGPS_CSharp\TestCodeCS\obj\Debug\TestCodeCS.csprojAssemblyReference.cache
+D:\0.DATA\Thuc_tap\2.Git\INDRUINO\SourceGPS_CSharp\TestCodeCS\obj\Debug\TestCodeCS.csproj.CoreCompileInputs.cache
+D:\0.DATA\Thuc_tap\2.Git\INDRUINO\SourceGPS_CSharp\TestCodeCS\obj\Debug\TestCodeCS.exe
+D:\0.DATA\Thuc_tap\2.Git\INDRUINO\SourceGPS_CSharp\TestCodeCS\obj\Debug\TestCodeCS.pdb

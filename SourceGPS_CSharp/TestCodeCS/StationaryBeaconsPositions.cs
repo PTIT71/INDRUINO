@@ -16,8 +16,12 @@ namespace TestCodeCS
         public StationaryBeaconsPositions()
         {
             numBeacons = new byte();
-            beacons = new StationaryBeaconPosition[30];
             updated = new bool();
+            beacons = new StationaryBeaconPosition[30];
+            for(int i = 0; i < beacons.Length ;i++)
+            {
+                beacons[i] = new StationaryBeaconPosition();
+            }
         }
 
 
